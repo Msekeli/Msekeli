@@ -2,6 +2,8 @@
 
 # Msekeli Mkwibiso
 
+Building modern web applications across frontend, backend and cloud.
+
 </div>
 
 ---
@@ -12,18 +14,20 @@
 
 </div>
 
+---
+
 ## Selected Projects
 
-**InterviewPrep**  
+**[InterviewPrep](https://github.com/Msekeli/InterviewPrep)**  
 Voice-driven interview platform built with Next.js, TypeScript, .NET 9, Clean Architecture and Azure Speech.
 
-**Spaza Stock Manager**  
+**[Spaza Stock Manager](https://github.com/Msekeli/InventoryLedger)**  
 Inventory management application built with Blazor WebAssembly, ASP.NET Core, .NET 8, Clean Architecture and Azure SQL.
 
-**SmartWheel**  
+**[SmartWheel](https://github.com/Msekeli/SmartWheel2)**  
 Reward-wheel game where users solve riddles and earn prizes, built with React and a .NET 9 backend and deployed on Azure.
 
-**DERZ**  
+**[DERZ](https://github.com/Msekeli/derz-clothing)**  
 Modern South African fashion and lifestyle storefront currently being developed with Next.js, TypeScript and a separate backend architecture.
 
 ---
