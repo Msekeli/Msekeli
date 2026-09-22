@@ -2,10 +2,6 @@
 
 # Msekeli Mkwibiso
 
-### Software Engineer
-
-Building modern web applications across frontend, backend and cloud.
-
 </div>
 
 ---
